@@ -18,7 +18,8 @@ cd quiz-builder
 ```
 ### 3. Add file to root folder .env and and path to database
 
-DATABASE_URL="postgresql://postgres:password@localhost:5433/name-project(develop-squiz)?schema=public"
+DATABASE_URL="postgresql://USERNAME:PASSWORD@localhost:5432/DATABASE_NAME?schema=public"
+
 
 ### 4. Prisma migrate
 
