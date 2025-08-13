@@ -14,6 +14,7 @@ cd quiz-builder
 ```
 ### 2. Go to the backend and set up dependencies
 ```bash
+ cd backend
  npm install
 ```
 ### 3. Add file to root folder .env and and path to database
